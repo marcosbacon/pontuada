@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Aulas de música na sua casa, no seu tempo.
+    text: Bem-vindos à música! 
+    button: Marque uma aula!
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -9,15 +9,15 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Aulas Online"
+        desc: "Grandes desafios trazem grandes soluções. Nossos professores resolveram o problema do distanciamento: aprenda de casa, sendo acompanhado semanalmente por um profissional."
+        icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
+      - title: "Vídeo-Aulas"
+        desc: "Cursos de um mês que vão resolver suas dúvidas sobre música, instrumentos e tecnologia. Conheça os cursos da Pontuada Online!"
+        icon: fas fa-video       
+      - title: "Mentoria Musical"
+        desc: "Seja acompanhado por um mentor: combine se vão ser aulas, conteúdo digital, dica de eventos, técnicas específicas pro seu instrumento. Baratinho e flexível!"
+        icon: fas fa-user-tie
 
 portfolio:
     title: "Portfolio"
@@ -26,35 +26,35 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Sobre a Pontuada" 
+    text: "Conheça nossa história."
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Pequeno começo"
+        year: "2011"
+        desc: "Insatisfeitos com o ensino musical em Campinas, e com o desejo claro de dar ótimas aulas de música, sabíamos que precisaríamos criar uma escola com profissionais qualificados e comprometidos. Foi assim que oficializamos nossos Projeto Político, Poético e Pedagógico, definindo assim as diretrizes do nosso trabalho."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Borbulhando música pela cidade"
+        year: "2012"
+        desc: "Surpreendidos pela quantidade de emails, ligações e alunos surgindo no primeiro ano, resolvemos desenvolver nosso trabalho com oficinas gratuitas, parcerias em condomínios, aulas/shows infantis, entre outros. Foi um período fértil e de muito aprendizado."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Expandindo e amadurecendo"
+        year: "2014"
+        desc: "Num movimento ousado, plantamos sementes em São Paulo e Americana, o que nos mostrou novos horizontes e nos garantiu uma administração e organização mais forte. Seguindo assim por um tempo, resolvemos voltar nossa atenção de volta para a cidade de origem: Campinas. E cá estamos!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Tempos difíceis, mas clientes fiéis"
+        year: "2020"
+        desc: "Claro que a pandemia abalou nossas estruturas, mas com professores corajosos e clientes felizes de aprender música, seguimos online firmes e fortes. E com novidades: **os cursos online** vieram pra quem queria aprender habilidades mais pontuais e práticas, com nossos primeiros cursos de **Ukulele** e **Produção Musical**."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Faça parte<br> da nossa <br> história!"
 
 about:
     title: "About Us"
@@ -80,59 +80,41 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Nossa equipe"
+    text: "Desde 2011 ensinando e aprendendo música com vocês. Conheça nossa diretoria."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Lucas Bohn"
+        role: "Diretor e professor"
+        image: assets/img/team/bohn-300px.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://www.instagram.com/lucasbohn/
+            icon: fab fa-instagram
+      - name: "Livia Carolina"
+        role: "Coordenadora e financeiro"
+        image: assets/img/team/livia-300px.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+          - url: https://www.instagram.com/liviacarolinaa/
+            icon: fab fa-instagram
+      - name: "Raul Rodrigues"
+        role: "Fundador e Mentor"
+        image: assets/img/team/raul-300px.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/raulalmeidarodrigues/
+            icon: fab fa-instagram
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Nos mande uma mensagem"
+    text: "Ou fale com a Lívia: 19 992 689 622"
     section: contact
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
+      - url: https://facebook.com/pontuada
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/escolapontuada
         icon: "fab fa-instagram"
 
 

@@ -1,18 +1,18 @@
 nav:
-  - title: "Services"
+  - title: "Serviços"
     section: services
 
   - title: "Portfolio"
     section: portfolio
     
-  - title: "About"
+  - title: "A Pontuada"
     section: timeline
 
-  - title: "Team"
+  - title: "Equipe"
     section: team
 
-  - title: "Contact"
+  - title: "Contato"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Instagram"
+    url: https://www.instagram.com/escolapontuada
