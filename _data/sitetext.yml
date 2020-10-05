@@ -2,26 +2,26 @@ header:
     title: Aulas de música na sua casa, no seu tempo.
     text: Bem-vindos à música! 
     button: Marque uma aula!
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#contact" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "O que oferecemos?"
+    text: "Temos algumas opções para você. Caso tenha dúvidas, entre em contato com a gente!"
     section: services
     list:
       - title: "Aulas Online"
         desc: "Grandes desafios trazem grandes soluções. Nossos professores resolveram o problema do distanciamento: aprenda de casa, sendo acompanhado semanalmente por um profissional."
         icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
       - title: "Vídeo-Aulas"
-        desc: "Cursos de um mês que vão resolver suas dúvidas sobre música, instrumentos e tecnologia. Conheça os cursos da Pontuada Online!"
+        desc: "Cursos de um mês que vão resolver suas dúvidas sobre música, instrumentos e tecnologia. Conheça os cursos da **Pontuada Online**!"
         icon: fas fa-video       
       - title: "Mentoria Musical"
         desc: "Seja acompanhado por um mentor: combine se vão ser aulas, conteúdo digital, dica de eventos, técnicas específicas pro seu instrumento. Baratinho e flexível!"
         icon: fas fa-user-tie
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Pontuada Online"
+    text: "Além de aprender diversos instrumentos com nossas aulas online, você pode também fazer nossos cursos de 1 mês:"
     section: portfolio
     
 
@@ -66,12 +66,12 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+      - title: "ECC"
+        url: https://www.ecc.br
+        logo: assets/img/clients/ecc_p&b.jpg
+      - title: "Drumap"
+        url: https://www.drumap.com
+        logo: assets/img/clients/drumap.jpg
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
@@ -91,19 +91,26 @@ team:
         social:
           - url: https://www.instagram.com/lucasbohn/
             icon: fab fa-instagram
+          - url: https://open.spotify.com/artist/3fp8VppGbSuQ7FP3bD7UPW 
+            icon: fab fa-spotify
       - name: "Livia Carolina"
         role: "Coordenadora e financeiro"
         image: assets/img/team/livia-300px.jpg
         social:
           - url: https://www.instagram.com/liviacarolinaa/
             icon: fab fa-instagram
+          - url: https://open.spotify.com/album/4tyGhoVXj4WNNcKTTsdQHK
+            icon: fab fa-spotify
       - name: "Raul Rodrigues"
         role: "Fundador e Mentor"
         image: assets/img/team/raul-300px.png
         social:
           - url: https://www.instagram.com/raulalmeidarodrigues/
             icon: fab fa-instagram
-          
+          - url: https://open.spotify.com/artist/5nChzDqcRphVs3txa4EyoL
+            icon: fab fa-spotify
+          - url: https://www.drumap.com
+            icon: fas fa-globe-americas
 contact:
     title: "Nos mande uma mensagem"
     text: "Ou fale com a Lívia: 19 992 689 622"
@@ -116,6 +123,8 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://instagram.com/escolapontuada
         icon: "fab fa-instagram"
+      - url: https://linktr.ee/escolapontuada
+        icon: "fas fa-video"       
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
