@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Ukulele para Iniciantes
+subtitle: O instrumento que te faltava!
 image: assets/img/portfolio/curso pacote ukulele.jpg
 alt: Keep Exploring
 
@@ -9,10 +9,4 @@ caption:
   subtitle: Pequeno, barato e super versátil!
   thumbnail: assets/img/portfolio/curso pacote ukulele.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+Que tal aprender um instrumento pequeno, barato, prático e extremamente versátil? O **ukulele** vai te atender em muitos estilos musicais, ainda mais se você aprender com o professor [Alu](https://www.instagram.com/oalukulele), que vem desenvolvendo um trabalho muito bonito nesse instrumento.

@@ -32,23 +32,23 @@ timeline:
     events:
       - title: "Pequeno começo"
         year: "2011"
-        desc: "Insatisfeitos com o ensino musical em Campinas, e com o desejo claro de dar ótimas aulas de música, sabíamos que precisaríamos criar uma escola com profissionais qualificados e comprometidos. Foi assim que oficializamos nossos Projeto Político, Poético e Pedagógico, definindo assim as diretrizes do nosso trabalho."
+        desc: "Insatisfeitos com o ensino musical em Campinas, e com o desejo claro de dar ótimas aulas de música, sabíamos que precisaríamos criar uma escola com profissionais qualificados e comprometidos. Foi assim que oficializamos nossos Projeto Político, Poético e Pedagógico, definindo assim as diretrizes do nosso trabalho. Já no primeiro ano fizemos um **sarau dos alunos**, o que seria uma tradição nossa, onde os alunos conheciam o resultado do estudo um do outro e registravam um semestre ou ano de estudo."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "Borbulhando música pela cidade"
-        year: "2012"
-        desc: "Surpreendidos pela quantidade de emails, ligações e alunos surgindo no primeiro ano, resolvemos desenvolver nosso trabalho com oficinas gratuitas, parcerias em condomínios, aulas/shows infantis, entre outros. Foi um período fértil e de muito aprendizado."
+      - title: "Borbulhando música"
+        year: "2012-2014"
+        desc: "Surpreendidos pela quantidade de emails, ligações e alunos surgindo no primeiro ano, resolvemos desenvolver nosso trabalho com oficinas gratuitas, parcerias em condomínios, aulas/shows infantis, entre outros. Foi um período fértil e de muito aprendizado. Por um período expandimos para São Paulo e Americana, o que nos exigiu uma organização mais madura e eficiente. Mas decidimos voltar nosso foco para nossa cidade de origem: Campinas. E cá estamos!"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Expandindo e amadurecendo"
-        year: "2014"
-        desc: "Num movimento ousado, plantamos sementes em São Paulo e Americana, o que nos mostrou novos horizontes e nos garantiu uma administração e organização mais forte. Seguindo assim por um tempo, resolvemos voltar nossa atenção de volta para a cidade de origem: Campinas. E cá estamos!"
+      - title: "Presença digital"
+        year: "2017-2019"
+        desc: "Com alguns professores já se utilizando de computadores, iPads e softwares musicais em aula, a Pontuada iniciou uma série de Lives com profissionais de várias áreas, incluindo tecnologia e pedagogia infantil. Foram tempos ricos para a nossa comunidade. E foi um preparo para o que estava por vir..."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Tempos difíceis, mas clientes fiéis"
+      - title: "Tempos difíceis, clientes fiéis"
         year: "2020"
         desc: "Claro que a pandemia abalou nossas estruturas, mas com professores corajosos e clientes felizes de aprender música, seguimos online firmes e fortes. E com novidades: **os cursos online** vieram pra quem queria aprender habilidades mais pontuais e práticas, com nossos primeiros cursos de **Ukulele** e **Produção Musical**."
         image: assets/img/timeline/4.jpg
@@ -72,21 +72,21 @@ clients:
       - title: "Drumap"
         url: https://www.drumap.com
         logo: assets/img/clients/drumap.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Espaço Sete Criativo"
+        url: https://www.setecriativo.com.br/
+        logo: assets/img/clients/7criativo.jpg
+          #      - title: "Creative Market"
+          #        url: https://github.com/raviriley/agency-jekyll-theme
+          #        logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "Nossa equipe"
     text: "Desde 2011 ensinando e aprendendo música com vocês. Conheça nossa diretoria."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Nosso quadro de professores, mentores e conselheiros também entrará aqui no site, em breve!
     section: team
     people:
       - name: "Lucas Bohn"
-        role: "Diretor e professor"
+        role: "Diretor e Professor"
         image: assets/img/team/bohn-300px.jpg
         social:
           - url: https://www.instagram.com/lucasbohn/
@@ -94,7 +94,7 @@ team:
           - url: https://open.spotify.com/artist/3fp8VppGbSuQ7FP3bD7UPW 
             icon: fab fa-spotify
       - name: "Livia Carolina"
-        role: "Coordenadora e financeiro"
+        role: "Coordenadora e Finanças"
         image: assets/img/team/livia-300px.jpg
         social:
           - url: https://www.instagram.com/liviacarolinaa/
