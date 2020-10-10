@@ -3,6 +3,7 @@ title: Ukulele para Iniciantes
 subtitle: O instrumento que te faltava!
 image: assets/img/portfolio/curso pacote ukulele.jpg
 alt: Keep Exploring
+link: https://sun.eduzz.com/389438
 
 caption:
   title: Ukulele para Iniciantes

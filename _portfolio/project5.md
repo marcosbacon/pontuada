@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
+title: Curso Básico de Piano 
+subtitle: O professor Lucas Bohn, nosso diretor, é também um grande compositor e professor. Aprenda com ele, durante o próximo mês sobre os fundamentos de como aprender piano.
+image: assets/img/portfolio/curso-piano.jpg
 alt: 
+link:
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Curso Básico de Piano
+  subtitle: Em breve...
+  thumbnail: assets/img/portfolio/curso-piano.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+Em breve mais informações sobre o curso.
 

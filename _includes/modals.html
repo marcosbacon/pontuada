@@ -17,9 +17,12 @@
                 <p class="item-intro text-muted">{{ project.subtitle }}</p>
                 <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
 				<p>{{ project.content }}</p>		
-                <button class="btn btn-primary" data-dismiss="modal" type="button">
+        <a href="{{ project.link }}" target="_blank"><button class="btn btn-primary" type="button">
+                  <i class="fas fa-shopping-cart"></i>
+                  Quero!</button></a>
+                <button class="btn btn-secundary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  {{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</button>
+                  {{ site.data.sitetext.portfolio.closebutton | default: "Voltar" }}</button>
               </div>
             </div>
           </div>

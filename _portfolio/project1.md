@@ -3,6 +3,7 @@ title: Produção Musical no Reaper
 subtitle: Aprenda a se gravar, editar e produzir sem sair de casa, sem equipamentos caros e na hora que quiser!
 image: assets/img/portfolio/curso pacote reaper.jpg
 alt: Shirts on a hanger
+link: https://sun.eduzz.com/389445
 
 caption:
   title: Produção Musical
