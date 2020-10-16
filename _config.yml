@@ -18,8 +18,8 @@ url    : "https://www.pontuada.com.br" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Pontuada 
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+email      : contato@pontuada.com.br #this is also the email contact forms will go to
+description: "A sua escola de música!"
 author     : Marcos Bacon 
 logo       : #optional, defaults to site title
   path     : assets/img/logo.png
