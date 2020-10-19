@@ -10,7 +10,7 @@ $(function() {
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
-	  var url = "https://formspree.io/f/mnqodnzg;" //"https://formspree.io/" + "{{ site.email }}";
+	  //var url = "https://formspree.io/" + "{{ site.email }}";
       var name = $("input#name").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();
@@ -23,7 +23,7 @@ $(function() {
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({
-        url: url,
+        url: "//formspree.io/f/mnqodnzg",
         type: "POST",
 	dataType: "json",      
         data: {
